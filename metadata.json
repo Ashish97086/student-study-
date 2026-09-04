@@ -1,0 +1,7 @@
+{
+  "name": "Student Study Manager",
+  "description": "Offline-first student productivity and study management app",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
